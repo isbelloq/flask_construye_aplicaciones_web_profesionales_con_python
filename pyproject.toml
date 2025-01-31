@@ -8,6 +8,7 @@ packages = [{include = "flask_construye_aplicaciones_web_profesionales_con_pytho
 
 [tool.poetry.dependencies]
 python = "^3.11"
+flask = "2.2.2"
 
 
 [build-system]
